@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://quiet-frangipane-581e5b.netlify.app/sitemap.xml
